@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 12/10/2013 18:56:36 by Hibernate Tools 3.2.1.GA -->
+<hibernate-mapping>
+    <class name="estosepone.pojo.Categoria" table="categoria" schema="public">
+        <id name="idCategoria" type="int">
+            <column name="id_categoria" />
+            <generator class="identity" />
+        </id>
+        <property name="nombre" type="string">
+            <column name="nombre" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>

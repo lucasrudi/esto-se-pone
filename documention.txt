@@ -1,0 +1,115 @@
+Adding reference: ant.PropertyHelper
+Detected Java version: 1.7 in: C:\Program Files\Java\jdk1.7.0_25\jre
+Detected OS: Windows 8
+Adding reference: ant.ComponentHelper
+Trying to override old definition of task java
+ +Datatype java org.apache.tools.ant.module.bridge.impl.ForkedJavaOverride
+Trying to override old definition of task input
+ +Datatype input org.apache.tools.ant.module.bridge.impl.InputOverride
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-ant-browsetask.jar!/org/netbeans/modules/ant/browsetask/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-ant-browsetask.jar!/org/netbeans/modules/ant/browsetask/antlib.xml from a zip file
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/lib/ant.jar!/org/apache/tools/ant/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/lib/ant.jar!/org/apache/tools/ant/antlib.xml from a zip file
+ +Datatype nbbrowse org.netbeans.modules.ant.browsetask.NbBrowse
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-ant-browsetask.jar!/org/netbeans/modules/ant/browsetask/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-ant-browsetask.jar!/org/netbeans/modules/ant/browsetask/antlib.xml from a zip file
+ +Datatype antlib:org.netbeans.modules.ant.browsetask:nbbrowse org.netbeans.modules.ant.browsetask.NbBrowse
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/apisupport/ant/nblib/org-netbeans-modules-apisupport-ant.jar!/org/netbeans/modules/apisupport/ant/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/apisupport/ant/nblib/org-netbeans-modules-apisupport-ant.jar!/org/netbeans/modules/apisupport/ant/antlib.xml from a zip file
+ +Datatype nbinstaller org.netbeans.modules.apisupport.ant.InstallModuleTask
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/apisupport/ant/nblib/org-netbeans-modules-apisupport-ant.jar!/org/netbeans/modules/apisupport/ant/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/apisupport/ant/nblib/org-netbeans-modules-apisupport-ant.jar!/org/netbeans/modules/apisupport/ant/antlib.xml from a zip file
+ +Datatype antlib:org.netbeans.modules.apisupport.ant:nbinstaller org.netbeans.modules.apisupport.ant.InstallModuleTask
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-debugger-jpda-ant.jar!/org/netbeans/modules/debugger/jpda/ant/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-debugger-jpda-ant.jar!/org/netbeans/modules/debugger/jpda/ant/antlib.xml from a zip file
+ +Datatype nbjpdaconnect org.netbeans.modules.debugger.jpda.ant.JPDAConnect
+ +Datatype nbjpdastart org.netbeans.modules.debugger.jpda.ant.JPDAStart
+ +Datatype sourcepath org.netbeans.modules.debugger.jpda.ant.JPDAStart$Sourcepath
+ +Datatype nbjpdareload org.netbeans.modules.debugger.jpda.ant.JPDAReload
+ +Datatype nbjpdaappreloaded org.netbeans.modules.debugger.jpda.ant.JPDAAppReloaded
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-debugger-jpda-ant.jar!/org/netbeans/modules/debugger/jpda/ant/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-debugger-jpda-ant.jar!/org/netbeans/modules/debugger/jpda/ant/antlib.xml from a zip file
+ +Datatype antlib:org.netbeans.modules.debugger.jpda.ant:nbjpdaconnect org.netbeans.modules.debugger.jpda.ant.JPDAConnect
+ +Datatype antlib:org.netbeans.modules.debugger.jpda.ant:nbjpdastart org.netbeans.modules.debugger.jpda.ant.JPDAStart
+ +Datatype antlib:org.netbeans.modules.debugger.jpda.ant:sourcepath org.netbeans.modules.debugger.jpda.ant.JPDAStart$Sourcepath
+ +Datatype antlib:org.netbeans.modules.debugger.jpda.ant:nbjpdareload org.netbeans.modules.debugger.jpda.ant.JPDAReload
+ +Datatype antlib:org.netbeans.modules.debugger.jpda.ant:nbjpdaappreloaded org.netbeans.modules.debugger.jpda.ant.JPDAAppReloaded
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/profiler/ant/nblib/org-netbeans-modules-profiler-nbimpl.jar!/org/netbeans/modules/profiler/nbimpl/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/profiler/ant/nblib/org-netbeans-modules-profiler-nbimpl.jar!/org/netbeans/modules/profiler/nbimpl/antlib.xml from a zip file
+ +Datatype startprofiler org.netbeans.modules.profiler.nbimpl.StartProfilerTask
+ +Datatype nbprofiledirect org.netbeans.modules.profiler.nbimpl.NBProfileDirectTask
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/profiler/ant/nblib/org-netbeans-modules-profiler-nbimpl.jar!/org/netbeans/modules/profiler/nbimpl/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/profiler/ant/nblib/org-netbeans-modules-profiler-nbimpl.jar!/org/netbeans/modules/profiler/nbimpl/antlib.xml from a zip file
+ +Datatype antlib:org.netbeans.modules.profiler.nbimpl:startprofiler org.netbeans.modules.profiler.nbimpl.StartProfilerTask
+ +Datatype antlib:org.netbeans.modules.profiler.nbimpl:nbprofiledirect org.netbeans.modules.profiler.nbimpl.NBProfileDirectTask
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/enterprise/ant/nblib/org-netbeans-modules-j2ee-ant.jar!/org/netbeans/modules/j2ee/ant/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/enterprise/ant/nblib/org-netbeans-modules-j2ee-ant.jar!/org/netbeans/modules/j2ee/ant/antlib.xml from a zip file
+ +Datatype nbdeploy org.netbeans.modules.j2ee.ant.Deploy
+ +Datatype nbundeploy org.netbeans.modules.j2ee.ant.Undeploy
+ +Datatype nbverify org.netbeans.modules.j2ee.ant.Verify
+ +Datatype nbstartserver org.netbeans.modules.j2ee.ant.StartServer
+ +Datatype nbstartprofiledserver org.netbeans.modules.j2ee.ant.StartProfiledServer
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/enterprise/ant/nblib/org-netbeans-modules-j2ee-ant.jar!/org/netbeans/modules/j2ee/ant/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/enterprise/ant/nblib/org-netbeans-modules-j2ee-ant.jar!/org/netbeans/modules/j2ee/ant/antlib.xml from a zip file
+ +Datatype antlib:org.netbeans.modules.j2ee.ant:nbdeploy org.netbeans.modules.j2ee.ant.Deploy
+ +Datatype antlib:org.netbeans.modules.j2ee.ant:nbundeploy org.netbeans.modules.j2ee.ant.Undeploy
+ +Datatype antlib:org.netbeans.modules.j2ee.ant:nbverify org.netbeans.modules.j2ee.ant.Verify
+ +Datatype antlib:org.netbeans.modules.j2ee.ant:nbstartserver org.netbeans.modules.j2ee.ant.StartServer
+ +Datatype antlib:org.netbeans.modules.j2ee.ant:nbstartprofiledserver org.netbeans.modules.j2ee.ant.StartProfiledServer
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-javawebstart.jar!/org/netbeans/modules/javawebstart/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-javawebstart.jar!/org/netbeans/modules/javawebstart/antlib.xml from a zip file
+ +Datatype jnlpsignjars org.netbeans.modules.javawebstart.SignJarsTask
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-javawebstart.jar!/org/netbeans/modules/javawebstart/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-javawebstart.jar!/org/netbeans/modules/javawebstart/antlib.xml from a zip file
+ +Datatype antlib:org.netbeans.modules.javawebstart:jnlpsignjars org.netbeans.modules.javawebstart.SignJarsTask
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-java-source-ant.jar!/org/netbeans/modules/java/source/ant/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-java-source-ant.jar!/org/netbeans/modules/java/source/ant/antlib.xml from a zip file
+Trying to override old definition of task javac
+ +Datatype javac org.netbeans.modules.java.source.ant.JavacTask
+ +Datatype translate-classpath org.netbeans.modules.java.source.ant.TranslateClassPath
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-java-source-ant.jar!/org/netbeans/modules/java/source/ant/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/java/ant/nblib/org-netbeans-modules-java-source-ant.jar!/org/netbeans/modules/java/source/ant/antlib.xml from a zip file
+ +Datatype antlib:org.netbeans.modules.java.source.ant:javac org.netbeans.modules.java.source.ant.JavacTask
+ +Datatype antlib:org.netbeans.modules.java.source.ant:translate-classpath org.netbeans.modules.java.source.ant.TranslateClassPath
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/ide/ant/nblib/org-netbeans-modules-web-browser-api.jar!/org/netbeans/modules/web/browser/api/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/ide/ant/nblib/org-netbeans-modules-web-browser-api.jar!/org/netbeans/modules/web/browser/api/antlib.xml from a zip file
+ +Datatype nbbrowse2 org.netbeans.modules.web.browser.api.BrowserReloadTask
+parsing buildfile jar:file:/C:/Program%20Files/NetBeans%207.3.1/ide/ant/nblib/org-netbeans-modules-web-browser-api.jar!/org/netbeans/modules/web/browser/api/antlib.xml with URI = jar:file:/C:/Program%20Files/NetBeans%207.3.1/ide/ant/nblib/org-netbeans-modules-web-browser-api.jar!/org/netbeans/modules/web/browser/api/antlib.xml from a zip file
+ +Datatype antlib:org.netbeans.modules.web.browser.api:nbbrowse2 org.netbeans.modules.web.browser.api.BrowserReloadTask
+Setting ro project property: ant.file -> C:\Users\prince\AppData\Local\NetBeans\Cache\7.3.1\executor-snippets\run.xml
+Setting ro project property: ant.version -> Apache Ant(TM) version 1.8.4 compiled on May 22 2012
+Setting ro project property: ant.home -> C:\Program Files\NetBeans 7.3.1\java\ant
+Setting project property: ant.junit.enabletestlistenerevents -> true
+Setting ro project property: platform.java -> C:\Program Files\Java\jdk1.7.0_25\bin\java.exe
+Setting ro project property: platform.bootcp -> C:\Program Files\Java\jdk1.7.0_25\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_25\jre\classes;C:\Program Files\Java\jdk1.7.0_25\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.7.0_25\jre\lib\ext\zipfs.jar
+Setting ro project property: run.jvmargs -> -splash:src\estosepone\splash\splash.png
+Setting ro project property: classname -> estosepone.classes.PrincipalClass
+Setting ro project property: build.compiler.emacs -> true
+Setting ro project property: encoding -> UTF-8
+Setting ro project property: application.args -> 
+Setting ro project property: classpath -> C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\antlr-2.7.6.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\asm.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\asm-attrs.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\cglib-2.1.3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\commons-collections-2.1.1.jar;C:\Program Files\NetBeans 7.3.1\ide\modules\org-apache-commons-logging.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\dom4j-1.6.1.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\ehcache-1.2.3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\jdbc2_0-stdext.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\jta.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-tools.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-annotations.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-commons-annotations.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-entitymanager.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\javassist.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\ejb3-persistence.jar;C:\Program Files\NetBeans 7.3.1\ide\modules\ext\postgresql-9.2-1002.jdbc4.jar;D:\Projects\NetBeans Projects\EstoSePone\build\classes
+Setting ro project property: nb.wait.for.caches -> true
+Setting ro project property: work.dir -> D:\Projects\NetBeans Projects\EstoSePone
+Adding reference: ant.projectHelper
+Adding reference: ant.parsing.context
+Adding reference: ant.targets
+parsing buildfile C:\Users\prince\AppData\Local\NetBeans\Cache\7.3.1\executor-snippets\run.xml with URI = file:/C:/Users/prince/AppData/Local/NetBeans/Cache/7.3.1/executor-snippets/run.xml
+Setting ro project property: ant.project.name -> {0} (run)
+Adding reference: {0} (run)
+Setting ro project property: ant.project.default-target -> run
+Setting ro project property: ant.file.{0} (run) -> C:\Users\prince\AppData\Local\NetBeans\Cache\7.3.1\executor-snippets\run.xml
+Setting ro project property: ant.file.type.{0} (run) -> file
+Project base dir set to: C:\Users\prince\AppData\Local\NetBeans\Cache\7.3.1\executor-snippets
+ +Target: 
+ +Target: run
+Adding reference: ant.LocalProperties
+Setting ro project property: ant.project.invoked-targets -> run
+Attempting to create object of type org.apache.tools.ant.helper.DefaultExecutor
+Adding reference: ant.executor
+Build sequence for target(s) `run' is [run]
+Complete build sequence is [run, ]
+run:
+Setting project property: classpath-translated -> C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\antlr-2.7.6.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\asm.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\asm-attrs.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\cglib-2.1.3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\commons-collections-2.1.1.jar;C:\Program Files\NetBeans 7.3.1\ide\modules\org-apache-commons-logging.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\dom4j-1.6.1.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\ehcache-1.2.3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\jdbc2_0-stdext.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\jta.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-tools.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-annotations.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-commons-annotations.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-entitymanager.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\javassist.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\ejb3-persistence.jar;C:\Program Files\NetBeans 7.3.1\ide\modules\ext\postgresql-9.2-1002.jdbc4.jar;D:\Projects\NetBeans Projects\EstoSePone\build\classes
+Override ignored for property "run.jvmargs"
+Override ignored for property "work.dir"
+Override ignored for property "application.args"
+Executing 'C:\Program Files\Java\jdk1.7.0_25\bin\java.exe' with arguments:
+'-Dfile.encoding=UTF-8'
+'-splash:src\estosepone\splash\splash.png'
+'-classpath'
+'C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\antlr-2.7.6.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\asm.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\asm-attrs.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\cglib-2.1.3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\commons-collections-2.1.1.jar;C:\Program Files\NetBeans 7.3.1\ide\modules\org-apache-commons-logging.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\dom4j-1.6.1.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\ehcache-1.2.3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\jdbc2_0-stdext.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\jta.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-tools.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-annotations.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-commons-annotations.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-entitymanager.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\javassist.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\ejb3-persistence.jar;C:\Program Files\NetBeans 7.3.1\ide\modules\ext\postgresql-9.2-1002.jdbc4.jar;D:\Projects\NetBeans Projects\EstoSePone\build\classes'
+'estosepone.classes.PrincipalClass'
+The ' characters around the executable and arguments are
+not part of the command.
+Execute:Java13CommandLauncher: Executing 'C:\Program Files\Java\jdk1.7.0_25\bin\java.exe' with arguments:
+'-Dfile.encoding=UTF-8'
+'-splash:src\estosepone\splash\splash.png'
+'-classpath'
+'C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\antlr-2.7.6.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\asm.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\asm-attrs.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\cglib-2.1.3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\commons-collections-2.1.1.jar;C:\Program Files\NetBeans 7.3.1\ide\modules\org-apache-commons-logging.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\dom4j-1.6.1.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\ehcache-1.2.3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\jdbc2_0-stdext.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\jta.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate3.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-tools.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-annotations.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-commons-annotations.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\hibernate-entitymanager.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\javassist.jar;C:\Program Files\NetBeans 7.3.1\java\modules\ext\hibernate\ejb3-persistence.jar;C:\Program Files\NetBeans 7.3.1\ide\modules\ext\postgresql-9.2-1002.jdbc4.jar;D:\Projects\NetBeans Projects\EstoSePone\build\classes'
+'estosepone.classes.PrincipalClass'
+The ' characters around the executable and arguments are
+not part of the command.

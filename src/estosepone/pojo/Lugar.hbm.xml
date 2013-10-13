@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 12/10/2013 18:56:36 by Hibernate Tools 3.2.1.GA -->
+<hibernate-mapping>
+    <class name="estosepone.pojo.Lugar" table="lugar" schema="public">
+        <id name="idLugar" type="int">
+            <column name="id_lugar" />
+            <generator class="identity" />
+        </id>
+        <property name="nombre" type="string">
+            <column name="nombre" not-null="true" />
+        </property>
+        <property name="descripcion" type="string">
+            <column name="descripcion" />
+        </property>
+        <property name="direccion" type="string">
+            <column name="direccion" not-null="true" />
+        </property>
+        <property name="telefono" type="string">
+            <column name="telefono" />
+        </property>
+        <property name="foto" type="string">
+            <column name="foto" />
+        </property>
+    </class>
+</hibernate-mapping>
